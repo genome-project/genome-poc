@@ -1,0 +1,19 @@
+{
+  "name": "genome-poc",
+  "version": "0.1.0",
+  "description": "Proof of Concept for Genome",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genome-project/genome-poc.git"
+  },
+  "author": "skyclo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/genome-project/genome-poc/issues"
+  },
+  "homepage": "https://github.com/genome-project/genome-poc#readme"
+}
